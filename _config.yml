@@ -12,11 +12,11 @@ owner:
   avatar:         bio-photo.jpg
   email:          hi@felixmohnert.eu
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/felixmohnert
-  facebook:       https://www.facebook.com/felix.mohnert
-  github:         https://github.com/felixmohnert
+  twitter:        felixmohnert
+  facebook:       felix.mohnert
+  github:         felixmohnert
   stackexchange:
-  linkedin:       https://de.linkedin.com/in/felixmohnert/
+  linkedin:       felixmohnert
   instagram:
   flickr:
   tumblr:
