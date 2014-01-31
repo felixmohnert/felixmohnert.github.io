@@ -6,8 +6,8 @@ tags: [Jekyll, Felix, Developer, Ruby]
 modified: 2014-01-31
 image:
   feature: header-image-spree.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  credit: Felix Mohnert
+  creditlink: http://www.felixmohnert.eu
 ---
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
