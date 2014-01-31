@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hi/
-title: Hi. I'm Felix, Developer based in Berlin.
+title: Hi. I'm Developer based in Berlin.
 tags: [Jekyll, Felix, Developer, Ruby]
 modified: 2014-01-31
 image:
@@ -10,24 +10,23 @@ image:
   creditlink: http://www.felixmohnert.eu
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+After I had finished my degree in Business Administration at Freie Universität Berlin I decided to say goodbye to any habits and started with Ruby. This was 2012 and since then, I changed perspective on many things.
 
-## So Simple Theme is all about:
+At some point I started visiting the Ruby User Group Berlin ([**RUG::B**](http://berlin.onruby.de)), traveled to Israel for [**Rails Israel**](http://railsisrael2013.events.co.il/tracks) and will visit [**wroc_love.rb**](http://wrocloverb.com) soon. In addition I began to realize: This is massive. It's not just Ruby on Rails, there is so much more.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+That reslults in my hardest challange: Learn all the things without having a profound dev backround.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## Things I learn(ed)
 
-[^1]: Example: *domain.com/category-name/post-title*
+* Ruby 1.9 / 2.0
+* Rails 3.2 / 4.0
+* HTML / eRuby / Haml
+* CSS/ Compass /Sass
+* Bootstrap 2 / 3
+* PostgreSQL
+* Heroku / CloudControl
+* Git / Github
+* Javascript / / Coffeescript / jQuery
+* Sinatra
+
+<a markdown="0" href="http://twitter.com/felixmohnert" class="btn">Follow me</a>
