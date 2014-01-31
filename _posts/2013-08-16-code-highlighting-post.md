@@ -2,7 +2,7 @@
 layout: post
 title: Syntax Highlighting Post
 description: "Demo post displaying the various ways of highlighting code in Markdown."
-category: articles
+category: stories
 tags: [sample post, code, highlighting]
 image:
   feature: header-image-spree.jpg

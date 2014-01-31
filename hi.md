@@ -24,7 +24,7 @@ That reslults in my hardest challange: Learn all the things without having a pro
 * CSS/ Compass /Sass
 * Bootstrap 2 / 3
 * PostgreSQL
-* Heroku / CloudControl
+* Heroku / cloudControl
 * Git / Github
 * Javascript / / Coffeescript / jQuery
 * Sinatra

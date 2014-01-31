@@ -13,7 +13,7 @@ layout: post
 title: #{title}
 description: A description
 modified: #{date}
-category: articles
+category: stories
 tags: []
 image:
   credit:
