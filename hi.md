@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /hi/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: Hi. I'm Felix, Developer based in Berlin.
+tags: [Jekyll, Felix, Developer, Ruby]
+modified: 2014-01-31
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: header-image-spree.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
