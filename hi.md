@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /hi/
 title: About the Jekyll Theme
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
@@ -16,7 +16,7 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
+* Minimal embellishments and subtle animations.
 * Readable typography to make your words shine.
 * Support for large images to call out your favorite posts.
 * Disqus comments if you choose to enable.
