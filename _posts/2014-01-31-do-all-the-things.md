@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-sure if this is a developer's idiosyncrasy, but since I am such a [**thing**](/hi), I started increasingly questioning things in every days live. It's about simplifying work, enhance meaning, questioning processes and being more aware of what happens around you.
+I am not sure if this is a developer's idiosyncrasy, but since I am such a [**thing**](/hi), I started increasingly questioning things in every days live. It's about simplifying work, enhance meaning, questioning processes and being more aware of what happens around you.
 
 ## Simplify
 
