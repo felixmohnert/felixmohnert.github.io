@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Do All The Things 2014
-description: "Thoughts about a life in tech. Simplify, enhance, blog!"
+description: "Thoughts about a life in tech. Simplify, improve, blog!"
 category: stories
-tags: [simplify, enhance, tech]
+tags: [simplify, improve, tech]
 image:
   feature: header-image-spree.jpg
   credit: Felix Mohnert
@@ -12,25 +12,24 @@ comments: true
 share: true
 ---
 
-I am not sure if this is a developer's idiosyncrasy, but since I am such a [**thing**](/hi), I started increasingly questioning things in every days live. It's about simplifying work, enhance meaning, questioning processes and being more aware of what happens around you.
+I am not sure if this is an idiosyncrasy of developers, but since I've been starting to earn my living as such a [**thing**](/hi), I have increasingly started to question things in every day live, like the environment that you work in, and the time that you have - or at least should have - to care about other things than work. And I have started to change habits - last but not least by writing this blog.
 
-## Simplify
+## Like what you do!
 
-Why has the working environment to be such a pain in the ass?
+First off, I really enjoy my job a lot!
+Developers are pragmatic when it comes to their working environment. Common business habits don't count in tech. It starts with your college degree: In my case, nobody ever asked for it because it doesn't count as much as in other fields. What counts is how you are, what you are able to do and most important: What you are willing to learn.
 
-It doesn't! Developers are down-to-earth when it comes to their working environment. Common business habits don't count in tech. It starts with your college degree, nobody ever asked for it because it doesn't count. What counts is how you are, what you are, what you are able to do and most important: What you are willing to learn.
+Working hours and physical attendance in your office also work a little differently in tech. They are both not as important since you are basically able to work from anywhere anytime. 
 
-Working hours and presence time are the next exceptional things in tech. They are both not important since you are able to work anywhere anytime. Most likely your boss won't be able to understand what you do, that's another reason why office presence isn't demanded.
+If you are lucky, you get deployment rights right from the beginning, sit next to the CTO and do the same things as he does. Hierarchy is not the same as for example in a classic sales army, where everyone, except for the boss, has to be compliant. And if you're not satisified with your job you can quit ... and probably find a new job within a relatively short amount of time. 
 
-If you are lucky, you get deployment rights right from the beginning, sit next to the CTO and do the same things as he does. Hierarchy is not the same as for example in a classic sales army, where everyone, except for the boss, has to be sheepish. All in all, you mostly like your work, your colleagues and often even your boss. If not: You are in a quite good position and could quit the shit.
+## Improve
 
-## Enhance
+What I do for a living suddenly has a real meaning. I create things people actually use. I create workflows before they even exist and quite often have to put a lot of brain power into something before I find a solution. To get better at this and not get lost you have to improve constantly.
 
-Since I develop, I started reading increasingly more books, both, programmers books and off-topic books. On-Topic because what I do, suddenly has a real meaning. I create things people actually use. I create workflows before they even exist and sometimes have to put a lot of brain work in something, to find out what's best. To get better and don’t get lost you have to improve constantly.
+2014 will be a year of improving. Mostly programming skills. But also other things as my own confidence as a programmer, fluency in human languages or my sports skills. If the job is fulfilling you start paying more attention to other things as well. For example food:
 
-2014 Will be a year of enhancing. Mostly programming knowledge. But other things as confidence in programming, fluency in human languages or athleticism. Since the job is fulfilling other parts in life get more attention as well. For example food:
-
-The off-topic book [**Eating Animals**](https://readmill.com/books/sample-of-eating-animals) changed how I think about food production. It enhanced my amount of knowledge on that topic dramatically. After all it’s just the most rationally thing to reduce meat and dairy product consumption. Why didn’t tell me anyone?
+The book [**Eating Animals**](https://readmill.com/books/sample-of-eating-animals) changed how I think about food production and consumption. It improved my knowledge on that topic dramatically. After all it’s just the most rational thing to do to reduce the consumption of meat and dairy products.
 
 
 ## Blogging (WTF)
