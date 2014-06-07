@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: Learning Swift With a Ruby Background
 description: "Things you need to know coming from Ruby learning Swift"
