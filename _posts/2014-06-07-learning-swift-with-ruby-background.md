@@ -24,7 +24,7 @@ could be a better moment as the release of Swift.
 The main resource of knowledge (and of course the only complete resource by now)
 is the book "The Swift Programming Language" from Apple and can be found for
 free in the
-[**iBook Store**](https://itunes.apple.com/us/book/the-swift-programming-language).
+[**iBook Store**](https://itunes.apple.com/de/book/swift-programming-language/id881256329?mt=11).
 
 To run your code, you will need Xcode 6 beta. This version is for now only
 accessible with an enrollment in one of the Apple Developer programs
