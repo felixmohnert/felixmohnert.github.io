@@ -64,7 +64,7 @@ anymore!!** Now the optionals become meaning.
 var nonOptionalString = "I'm a string"
 nonOptionalString     = nil // This result's in a runtime error!
 
-var optionalString: String? = "I'm a optional String"
+var optionalString: String? = "I'm an optional String"
 optionalString              = nil // It just works
 
 // How do I work with optionals?
@@ -73,7 +73,7 @@ optionalString! // This gives me nil
 
 optionalString = "I'm a optional String"
 optionalString  // This gives me true
-optionalString! // This gives me "I'm a optional String"
+optionalString! // This gives me "I'm an optional String"
 {% endhighlight %}
 
 If you think about, this is quite nice. If you have a type defined and it is
