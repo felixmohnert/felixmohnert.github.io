@@ -4,6 +4,7 @@ title: Learning Swift With a Ruby Background
 description: "Things you need to know coming from Ruby learning Swift"
 category: stories
 tags: [swift, ruby, objective-c, learn]
+modified: 2014-06-08
 image:
   feature: header-image-swift.png
   credit: Felix Mohnert
