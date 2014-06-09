@@ -4,7 +4,7 @@ title: Learning Swift With a Ruby Background
 description: "Things you need to know coming from Ruby learning Swift"
 category: stories
 tags: [swift, ruby, objective-c, learn]
-modified: 2014-06-08
+modified: 2014-06-09
 image:
   feature: header-image-swift.png
   credit: Felix Mohnert
@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-As soon I heard about the Swift programming language I got curious. I tried
+As soon as I heard about the Swift programming language I got curious. I tried
 already to look into Objective-C but felt not quite ready yet. My programming
 knowledge developed now over about 2 years, with almost no prior knowledge.
 In the past 2 years I learned Ruby (on Rails) and of course all the things
