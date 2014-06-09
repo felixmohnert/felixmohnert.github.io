@@ -4,6 +4,7 @@ title: Do All The Things 2014
 description: "Thoughts about a life in tech. Simplify, improve, blog!"
 category: stories
 tags: [simplify, improve, tech]
+modified: 2014-02-16
 image:
   feature: header-image-spree.jpg
   credit: Felix Mohnert
