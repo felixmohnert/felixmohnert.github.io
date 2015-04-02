@@ -29,4 +29,6 @@ My hardest challenge so far is: Learning all the things without having a profoun
 * Teaching Ruby on Rails to Beginners
 * Blogging
 
+I'm currently working for DaWanda, a European marketplace for unique goods. You can read about our dev challenges in our Blog that I set up: [Code o'Clock](http://www.codeoclock.com).
+
 <a markdown="0" href="http://twitter.com/felixmohnert" class="btn">Follow me</a>
